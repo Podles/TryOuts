@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Add some new text, but not
-=======
 Add some new text here
 Add some old text here
->>>>>>> master
